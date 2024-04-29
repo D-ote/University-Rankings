@@ -9,19 +9,19 @@ Ultimately, the goal is to gain a deeper understanding of the factors that drive
 The dataset is from kaggle - https://www.kaggle.com/datasets/raymondtoo/the-world-university-rankings-2016-2024
 
 ### Research Questions
-#### Trends Over Time:
+##### Trends Over Time:
 - How have university rankings changed over the years? Are there any noticeable trends or patterns?
-#### Top Universities:
+##### Top Universities:
 - Which universities consistently rank at the top across different years?
 - Which countries have the highest number of top-ranked universities?
-#### Country Comparison:
+##### Country Comparison:
 - How do universities from different countries compare in terms of overall score and individual metrics?
 - Which countries have the highest proportion of international students or the best student-to-staff ratios?
-#### Student Demographics:
+##### Student Demographics:
 - What is the distribution of student populations across universities?
 - How does the ratio of female to male students vary across universities and countries?
 
-### Cleanings 
+### Data Preparation 
 The data cleaning process involved:
 - Removing duplicates
 - Checking for and filling missing values
