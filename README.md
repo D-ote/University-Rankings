@@ -31,4 +31,5 @@ The data cleaning process involved:
 
 ### Visualisations
 The results of the analysis have been synthesized into an interactive dashboard hosted on Tableau Public, providing a user-friendly interface for exploring the findings. The dashboard includes geospatial visualizations, trend analyses, and comparative metrics across different regions, universities, and metrics.
-[View the interactive dashboard on tableau public] (https://public.tableau.com/app/profile/dooter.ior/viz/UniversityRankings2016-2024/Dashboard2)
+
+[View the interactive dashboard on tableau public](https://public.tableau.com/app/profile/dooter.ior/viz/UniversityRankings2016-2024/Dashboard2)
