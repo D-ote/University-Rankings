@@ -30,12 +30,7 @@ To achieve the objectives outlined above, the following research questions were 
 - Which features have the most influence on predicting university rank categories?
 
 ### Data Preparation 
-Before conducting the analysis, several data preprocessing steps were performed to ensure data quality and consistency:
-
-Data Cleaning: The dataset was examined for missing values, duplicates, wrong data types, irrelevant columns, and inconsistencies, and appropriate measures were taken to handle them.
-Feature Engineering: New features were created, such as gender distribution ratios and trend analysis variables, to facilitate analysis and modeling.
-Exploratory Data Analysis: Descriptive statistics, visualizations, and correlation analysis were conducted to gain insights into the dataset's characteristics and relationships between variables.
-Feature Selection: Relevant features were selected based on their correlation with university rankings and predictive power.
+Before conducting the analysis, several data preprocessing steps were performed to ensure data quality and consistency including Data Cleaning, Feature Engineering, Exploratory Data Analysis, Feature Selection.
 
 ### Analysis
 - Top 10 countries with the most universtities - United States, United Kingdom, Japan, China, India, Italy, Germany, Spain, Brazil, Russia
