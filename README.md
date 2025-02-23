@@ -27,7 +27,7 @@ To achieve the objectives outlined above, the following research questions were 
 - What are the trends in overall score ranks of the top 7 universities over a 9-year period?
 - How has the gender distribution of top universities changed from 2016 to 2024?
 - What is the correlation between different metrics used in university rankings?
-- Which features are most predictive of university rank categories?
+- Which features have the most influence on predicting university rank categories?
 
 ### Data Preparation 
 Before conducting the analysis, several data preprocessing steps were performed to ensure data quality and consistency:
@@ -38,10 +38,13 @@ Exploratory Data Analysis: Descriptive statistics, visualizations, and correlati
 Feature Selection: Relevant features were selected based on their correlation with university rankings and predictive power.
 
 ### Analysis
-- Country Distribution: The analysis revealed the countries with the highest representation of universities in the dataset, providing insights into global higher education landscapes.
-- Trend Analysis: Trend analysis of overall score ranks for the top 7 universities over a 9-year period highlighted fluctuations and patterns in university rankings over time.
-- Gender Distribution: A comparison of gender distribution in top universities between 2016 and 2024 identified changes in gender representation trends within academic institutions.
-- Correlation Analysis: Scatter plots and heat maps were used to visualize the correlations between different metrics, aiding in feature selection for predictive modeling.
+- Top 10 countries with the most universtities - United States, United Kingdom, Japan, China, India, Italy, Germany, Spain, Brazil, Russia
+- Based on the **Overall Score** metric overe a 9 year period, the top 7 Universities are - University of Oxford, Stanford University, Harvard Univerisity, California Institute of Technology, Massachusettes Institute of Technology, University of Cambridge, University of California.
+- Over a period of 9 years, the charts showed more balance in gender distribution in the top universities in 2024 compared to 2016
+- Based on the anaylsis carried out including the correlation matrix;
+  - Overall Score, Teaching, Research Environment, and Research Quality exhibit strong correlations with each other, indicating that universities that perform well in one of these areas tend to perform well in the others too.
+  - Industry Impact, International Outlook, and International Students show weaker correlations with the other factors, suggesting that these aspects may not be as strongly linked to the overall performance of universities.
+  - Student Population and Students to Staff Ratio display the weakest correlations with the other factors, indicating that the size of the student population and population ratio may not be strongly related to other university metrics.
 
 ### Model Building
 - Machine Learning Models: Several machine learning algorithms, such as logistic regression, decision trees, and random forests, were trained on the dataset to predict university rank categories.
