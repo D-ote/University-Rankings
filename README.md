@@ -1,4 +1,7 @@
 # University Rankings (2016 - 2024)
+
+[![image alt](https://github.com/D-ote/University-Rankings/blob/main/Screenshot%202025-02-23%20at%2011.53.55.png)](https://public.tableau.com/app/profile/dooter.ior/viz/UniversityRankings2016-2024/Dashboard2)
+
 ### Introduction
 University rankings play a significant role in assessing the performance and reputation of higher education institutions worldwide. This report presents an analysis of a dataset containing various metrics used to rank universities, such as overall score, teaching quality, research environment, and others. Through exploratory data analysis (EDA) and predictive modeling, this analysis aims to uncover top factors influencing university rankings and build models to predict university rank categories.
 
